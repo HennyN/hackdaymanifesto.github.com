@@ -1,3 +1,102 @@
 This repo holds the hack day manifesto, if you wish to contribute, or add
 yourself to the list of supporters, then fork this repo make your changes, then
 issue a pull request.
+
+The German version of the hack day manifesto 
+
+The German version is currently in progress. Here is a list about the status. 
+0.0 means it is not translated 
+0.1 is the first draft
+
+about.
+I am planning to work on it from time to time and issue a pull reguest. 
+If you found already a mistake (and I am certain their will be some) or have a question, please contact me via
+twitter @_janem
+
+Teaser text: 0.0
+
+Venue: Veranstaltungsort
+	Location: 0.1
+	Accessibilit: 0.1
+	Insurance: 0.1
+	Security: 0.1
+	Secure sites and photo ID: 0.1
+
+Dates: Terminplanung
+	Weekend or Not?: 0.1
+	Checking for clashes: 0.1
+
+Overnight Events: Veranstaltungen mit Übernachtung
+	Sleeping provision: 0.0
+	Showers: 0.0
+
+Network: Network
+	Rock solid WiFi: 0.0
+	Minimal firewalling: 0.0
+	Subnet / DHCP capcity: 0.0
+	WiFi security: 0.0
+	No device isolation: 0.0
+	IP Whitelisting: 0.0
+	QoS and Monitoring: 0.0
+	Single subnet: 0.0
+	Ethernet to the Chair: 0.0
+
+Power: Stromversorgung
+	Power sockets: 0.0
+	PAT testing: 0.0
+	Isolated power for hardware hacks: 0.0
+
+Sustenance: 0.0
+	Dietary requirements:0.0
+	Breakfast: 0.0
+	Lunch: 0.0
+	Dinner: 0.0
+	Snacks: 0.0
+	Alcohol: 0.0
+
+APIs / Datasets: 0.0
+	Presentation: 0.0
+	Working APIs: 0.0
+	Multiple clients: 0.0
+	Clean datasets: 0.0
+	Thorough documentation: 0.0
+	Local downloads: 0.0
+	Make data explorable: 0.0
+	API Keys: 0.0
+	Licensing: 0.0
+	Longevity: 0.0
+	Local API testbeds: 0.0
+
+Demos: 0.0
+	Hack submissions: 0.0
+	Time limit: 0.0
+	Clear expectations: 0.0
+	Audience vote: 0.0
+	Judge previews: 0.0
+
+Audio / Video: 0.0
+	Support: 0.0
+	Video connectors: 0.0
+	Projector info: 0.0
+	Hardware and mobile hacks: 0.0
+
+Prizes: 0.0
+	Not every hack day needs prizes: 0.0
+	Prizes per team member: 0.0
+	Available on the day: 0.0
+	No cost to claim: 0.0
+	Avoid service prizes: 0.0
+
+Atmosphere and attitudes:0.0
+	Don’t make people feel unwelcome: 0.0
+	Do not charge attendees: 0.0
+	Intellectual property: 0.0
+	What are you after?: 0.0
+	Emergency plans: 0.0
+	Handling problematic people: 0.0
+	Finally, keep your crew safe too: 0.0
+
+Supporters 
+
+	
+
